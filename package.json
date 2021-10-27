@@ -4,9 +4,6 @@
   "description": "一个简单的 Vue 网页打印插件",
   "author": "Solar",
   "private": false,
-  "main": "",
-  "files": [],
-  "typings": "",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
