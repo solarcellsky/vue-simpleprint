@@ -1,0 +1,31 @@
+{
+  "name": "vue-simpleprint",
+  "version": "1.0.0",
+  "description": "一个简单的 Vue 网页打印插件",
+  "author": "Solar",
+  "private": false,
+  "main": "",
+  "files": [],
+  "typings": "",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build:lib": "",
+    "lint": "vue-cli-service lint",
+    "publish:npm": "sh build/publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solarcellsky/vue-simpleprint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solarcellsky/vue-simpleprint/issues"
+  },
+  "keywords": [
+    "vue",
+    "print",
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
